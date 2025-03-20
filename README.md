@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
-GitHub Readme Stats: github-readme-stats.vercel.app/api?username={사용자명}&show_icons=true
+[![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyhwang97)](https://github.com/eddyhwang97/github-readme-stats)
