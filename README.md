@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?text=FCS&DEVELOPER?type=soft)
+![header](https://capsule-render.vercel.app/api?type=soft)
 
 <!--
 **eddyhwang97/eddyhwang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
