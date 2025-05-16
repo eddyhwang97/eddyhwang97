@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&text=FCSDeveloper&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=soft&text=FCSDeveloper&fontAlign=30&fontSize=40&animation=fadeIn)
 
 <!--
 **eddyhwang97/eddyhwang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
