@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=FCS%20Eddy's%20Hub&fontAlign=50&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Eddy's%20Hub&fontAlign=50&fontSize=40&animation=fadeIn)
 
 <h1>Tech Stacks</h1>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
